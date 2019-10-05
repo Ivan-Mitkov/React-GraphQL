@@ -1,0 +1,9 @@
+#init config need  mutation and query
+
+
+type Mutation{
+    hi:String
+}
+type Query{
+    hi:String
+}
